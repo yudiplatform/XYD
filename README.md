@@ -15,7 +15,7 @@ Facebook: https://www.facebook.com/yudiplatform/
 
 Twitter: https://twitter.com/YudiPlatform
 
-Telegram: https://t.me/joinchat/HoYtQREdeCFegZDa5GXJoA
+Telegram: http://t.me/yudiplatform
 
 Bitcoin Talk: https://bitcointalk.org/index.php?topic=4641499
 
