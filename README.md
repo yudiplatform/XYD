@@ -19,4 +19,6 @@ Telegram: https://t.me/joinchat/HoYtQREdeCFegZDa5GXJoA
 
 Bitcoin Talk: https://bitcointalk.org/index.php?topic=4641499
 
+Coin Schedule : https://www.coinschedule.com/ico/yudi-platform
+
 Contract: https://etherscan.io/token/0xcf68d0f05580f5a4f7c6b3b557f2d0bc73f92afd
